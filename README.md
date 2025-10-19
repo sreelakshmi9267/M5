@@ -23,7 +23,8 @@ int main() {
 }
 ```
 ## OUTPUT:
- 	![alt text](<output 1.png>)
+
+![alt text](<output 1.png>)
 
 ## RESULT:
 Thus the program to convert a 23.65 into 25 using pointer has been executed successfully.
